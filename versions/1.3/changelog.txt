@@ -1,8 +1,0 @@
-Fabric Loader обновлен до 0.16.7
-Minecraft и Intermediary Mapping обновлены до версии 1.21.1
-Модификации: Chat Patches, Chest Tracker, NoEmotecraft, Fabric API, Fabric Language Kotlin, More Culling, Online Emotes, Plasmo Voice, Puzzle, RP Renames, Shulker Box Tooltip, Tab Tweaks, ViaFabricPlus, Nether Coords были обновлены.
-Исправлено отображение клавиши о доступном обновлении. Баг был связан с добавлением сертификата на хостинг. Пути переписаны с http на https.
-Значение качества листвы в настройках Sodium было изменено на объемные по умолчанию.
-Виньетирование отключено по умолчанию.
-Добавлены модификации: Tab Player Highlighter (и конфигурация к нему), Client Sort, Durability Guard, Particle Rain.
-Добавлена библиотека: oωo (owo-lib).

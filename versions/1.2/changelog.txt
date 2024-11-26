@@ -1,7 +1,0 @@
-Обновлены модификации: Chat Patches, Chest Tracker, CIT Resewn, Enchances Block Entities, Entity Model Features, Entity Texture Features, More Culling, Shulker Box Tooltip, Tab Tweaks, ViaFabricPlus, Sodium, Sodium Extra, Reese's Sodium Options, Iris.
-Удалена модификация Nvidium (из-за отсутствия обновления на новую версию Sodium).
-Добавлены модификации: RP Renames, Mouse Tweaks, Chunks Fade-in.
-Клавиша ViaVersionPlus была возвращена в меню серверов из-за периодической потери конфига мода (баг модификации, возможно исправлена с обновлением).
-Теперь для сгибов конечностей не требуются изменения в файлах модификаций Iris и Sodium.
-Отображение FPS в левом верхнем углу экрана по умолчанию отключено. Теперь вместо этого отображаются координаты.
-Значение "ghostBlockAlpha" в модификации Litematica было изменено на 0.8.
